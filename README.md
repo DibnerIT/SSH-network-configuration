@@ -5,7 +5,7 @@ Then program takes authentication file and command files.
 Authentication files has SSH Username and password.
 Commands file consist of commands to be run on cisco IOS.
 Paramiko implementation of SSH is used to SSH each IP in IP list.
-RejectPolicy policy in configured which alearts user in following way:
+Program also implements paramiko implementation of StrickHostKeyChecking feature of linux by configuration of RejectPolicy policy which alearts user in following way:
 
 Authenticity does no exist for host A Do you want to continue connecting?
 
