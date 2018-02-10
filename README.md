@@ -25,8 +25,7 @@ Each Router takes different authentication and command files.
 
 # Sample configutation
 
-
-
+![sample](https://user-images.githubusercontent.com/31825161/36058371-2529407e-0dec-11e8-8b96-851d9efe9880.jpg)
 
 # Example: 
 
