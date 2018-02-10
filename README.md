@@ -57,11 +57,11 @@ All devices are rechable.
 
 Give file names for authenticating and configuring device 10.1.1.1
 
-Enter user/pass file name and extension: authentication
+##Enter user/pass file name and extension: authentication
 
 * Username/password file has been validated. Waiting for command file...
 
-Enter command file name and extension: command
+##Enter command file name and extension: command
 
 Command file is being validated
 
